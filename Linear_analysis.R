@@ -147,5 +147,5 @@ for (i in c( "seg", "mean_conn_all", "mean_within_all", "mean_between_all", "seg
         plot.background = element_rect(fill = "transparent",colour = NA)
       )
     
-
+balbal
   
